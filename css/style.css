@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6, figure {
       width: 100%;
       position: relative;
       height: 200px; } }
-  #fh5co-aside #fh5co-logo {
+  #fh5co-ide #fh5co-logo {
     padding-top: 20px; }
     #fh5co-aside #fh5co-logo a {
       font-weight: 800;
@@ -117,32 +117,16 @@ h1, h2, h3, h4, h5, h6, figure {
     display: table-cell;
     vertical-align: middle; }
 
-.simply-countdown-one {
+.content{_
   margin-bottom: 30px;
   float: left;
-  width: 100%; }
-  .simply-countdown-one .simply-section {
-    float: left;
-    margin-right: 40px;
-    margin-bottom: 10px;
-    text-align: center; }
-    .simply-countdown-one .simply-section:last-child {
-      margin-right: 0; }
-    .simply-countdown-one .simply-section .simply-amount {
-      font-size: 100px;
-      color: #1c1c1c;
-      display: block;
-      font-weight: 800;
-      line-height: 100px; }
-      @media screen and (max-width: 768px) {
-        .simply-countdown-one .simply-section .simply-amount {
-          font-size: 30px;
-          line-height: 30px; } }
-    .simply-countdown-one .simply-section .simply-word {
-      display: block;
-      text-align: left;
-      font-weight: 700;
-      color: #a7a7a7; }
+  width: 100%;
+  font-size: 100px;
+}
+
+.content .welcome-sign {
+  color: #1c1c1c; 
+}
 
 .fh5co-intro {
   margin-bottom: 30px;
